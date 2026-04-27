@@ -55,5 +55,67 @@
             "description": "Durable backpack suitable for travel and college",
             "image": "https://via.placeholder.com/200?text=Backpack"
         }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "price": 399,
+            "category": "Fiction",
+            "rating": 4.7,
+            "stock": 50,
+            "publishedYear": 1988,
+            "description": "A philosophical story about following your dreams and listening to your heart.",
+            "image": "https://via.placeholder.com/200?text=Alchemist"
+        },
+        {
+            "id": 2,
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "price": 499,
+            "category": "Self-help",
+            "rating": 4.8,
+            "stock": 70,
+            "publishedYear": 2018,
+            "description": "A practical guide to building good habits and breaking bad ones.",
+            "image": "https://via.placeholder.com/200?text=Atomic+Habits"
+        },
+        {
+            "id": 3,
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert Kiyosaki",
+            "price": 350,
+            "category": "Finance",
+            "rating": 4.6,
+            "stock": 65,
+            "publishedYear": 1997,
+            "description": "Lessons about money, investing, and financial independence.",
+            "image": "https://via.placeholder.com/200?text=Rich+Dad"
+        },
+        {
+            "id": 4,
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "price": 599,
+            "category": "Fantasy",
+            "rating": 4.9,
+            "stock": 40,
+            "publishedYear": 1997,
+            "description": "A young wizard begins his magical journey at Hogwarts.",
+            "image": "https://via.placeholder.com/200?text=Harry+Potter"
+        },
+        {
+            "id": 5,
+            "title": "The Psychology of Money",
+            "author": "Morgan Housel",
+            "price": 450,
+            "category": "Finance",
+            "rating": 4.7,
+            "stock": 55,
+            "publishedYear": 2020,
+            "description": "Timeless lessons on wealth, greed, and happiness.",
+            "image": "https://via.placeholder.com/200?text=Money"
+        }
     ]
 }
