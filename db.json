@@ -2,7 +2,7 @@
     "products": [
         {
             "id": 1,
-            "name": "Wireless Mouse",
+            "name": "Wirefull Mouse",
             "price": 800,
             "category": "Electronics",
             "brand": "Logitech",
@@ -13,7 +13,7 @@
         },
         {
             "id": 2,
-            "name": "Bluetooth Headphones",
+            "name": "Chemical Headphones",
             "price": 1999,
             "category": "Electronics",
             "brand": "Boat",
