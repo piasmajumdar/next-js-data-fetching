@@ -1,0 +1,59 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Wireless Mouse",
+            "price": 800,
+            "category": "Electronics",
+            "brand": "Logitech",
+            "rating": 4.5,
+            "stock": 120,
+            "description": "Ergonomic wireless mouse with long battery life",
+            "image": "https://via.placeholder.com/200?text=Mouse"
+        },
+        {
+            "id": 2,
+            "name": "Bluetooth Headphones",
+            "price": 1999,
+            "category": "Electronics",
+            "brand": "Boat",
+            "rating": 4.2,
+            "stock": 80,
+            "description": "Over-ear headphones with deep bass and noise isolation",
+            "image": "https://via.placeholder.com/200?text=Headphones"
+        },
+        {
+            "id": 3,
+            "name": "Fancy Shoes",
+            "price": 2499,
+            "category": "Footwear",
+            "brand": "Nike",
+            "rating": 4.6,
+            "stock": 60,
+            "description": "Lightweight running shoes for daily workouts",
+            "image": "https://via.placeholder.com/200?text=Shoes"
+        },
+        {
+            "id": 4,
+            "name": "Smart DJ Watch",
+            "price": 3499,
+            "category": "Electronics",
+            "brand": "Noise",
+            "rating": 4.3,
+            "stock": 45,
+            "description": "Fitness tracking smartwatch with heart rate monitor",
+            "image": "https://via.placeholder.com/200?text=Watch"
+        },
+        {
+            "id": 5,
+            "name": "Backpack",
+            "price": 999,
+            "category": "Accessories",
+            "brand": "Wildcraft",
+            "rating": 4.4,
+            "stock": 150,
+            "description": "Durable backpack suitable for travel and college",
+            "image": "https://via.placeholder.com/200?text=Backpack"
+        }
+    ]
+}
